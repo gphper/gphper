@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=gphper&show_icons=true&theme=dracula" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=gphper&show_icons=true&theme=dracula" /> -->
 
 ### Hi there 👋
 
