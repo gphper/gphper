@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 -<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gphper&layout=compact&theme=radical&card_width=380" />
 -->
 
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=var_dump(%22hello%20world%22);fmt.Println(%22hello%20world%22)&center=true&size=27"> </h1>
+<!-- <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=var_dump(%22hello%20world%22);fmt.Println(%22hello%20world%22)&center=true&size=27"> </h1> -->
